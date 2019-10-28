@@ -1,2 +1,2 @@
 # clone_webpage
-The closest I could make Serenes Forest with bootstrap.
+A parody version of SerenesForest, all for fun.
